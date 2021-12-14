@@ -1,0 +1,1 @@
+# Aplica-o-para-cadastro-de-s-ries-em-mem-ria
