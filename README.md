@@ -1,1 +1,1 @@
-# Aplica-o-para-cadastro-de-s-ries-em-mem-ria
+# Aplicação CRUD para series com aramzenamento em memória.
