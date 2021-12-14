@@ -1,1 +1,1 @@
-# Aplicação CRUD para séries com aramzenamento em memória.
+# Aplicação CRUD para séries com armazenamento em memória.
